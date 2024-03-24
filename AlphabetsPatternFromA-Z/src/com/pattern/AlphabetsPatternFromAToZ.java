@@ -1,4 +1,4 @@
-//java program to Alphabets from A to Z
+//java program to prints Alphabets from A to Z using star pattern
 
 package com.pattern;
 public class AlphabetsPatternFromAToZ {
